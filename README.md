@@ -1,7 +1,7 @@
 # PEL202 - Fundamentos de Inteligência Artificial
 #### Engenharia Elétrica - Mestrado e Doutorado
 
-# PEL202-Projetos
+# PEL202-Projeto-1
 
 https://colab.research.google.com/drive/1qlbhq26mPQz5_4BwQqJvXcnTbKE5jJXX?usp=sharing
 
